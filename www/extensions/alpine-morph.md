@@ -34,7 +34,7 @@ Alpine.js now has a lightweight [morph plugin](https://alpinejs.dev/plugins/morp
 </body>
 ```
 
-In the above example, all the Alpine x-data states (count, replaced, and message) are preserved even the entire Alpine component is swapped.
+In the above example, all the Alpine x-data states (count, replaced, and message) are preserved even though the entire Alpine component is swapped.
 
 #### Source
 
